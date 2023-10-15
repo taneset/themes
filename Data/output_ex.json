@@ -1,0 +1,28 @@
+{
+    "theme_attributes": {
+        "theme1": {},
+        "theme2": {
+            "merged": "theme1"
+        },
+        "theme3": {},
+        "theme4": {
+            "merged": "theme1"
+        },
+        "theme5": {
+            "merged": "theme1"
+        },
+        "theme6": {
+            "merged": "theme3"
+        },
+        "theme7": {}
+    },
+    "titles": {
+        "theme1": "online banking",
+        "theme2": "internet banking",
+        "theme3": "mobile app",
+        "theme4": "banking on the web",
+        "theme5": "banking via web",
+        "theme6": "phone app",
+        "theme7": "online security"
+    }
+}
